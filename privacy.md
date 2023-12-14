@@ -8,7 +8,7 @@
 - Automod Rule Ids,
 - User defined sentences (strings),
 - Server individual language choices.
-- MessageContent due to the AntiPing Module ( **!** At the moment I do not receive the MessageContent because I do not have Message Content Intent **!** )
+- Message related data only in the cache, due to the AntiPing and Auto Delete Module. After one hour each message object will be removed from the cache
 
 ### Who has access to the data?
 Access to the database and cache has <a href="https://discord.com/users/863453422632173568">Voroniyx</a> and <a href="https://discord.com/users/905083832695398481">Acronix</a> <br>
